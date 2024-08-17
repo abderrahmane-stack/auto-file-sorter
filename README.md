@@ -30,11 +30,10 @@ You can easily customize these categories and extensions to suit your needs.
    git clone https://github.com/abderrahmane-stack/auto-file-sorter.git
 
 2.Navigate to the project directory:
-
-  ```bash
+   ```bash
   cd auto-file-sorter
-```
-### Usage
+  ```
+## Usage
  1.Open the script file_sorter.py.
  2.Modify the directory variable to the path of the directory you want to sort.
  3.Run the script:
