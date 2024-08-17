@@ -28,7 +28,7 @@ You can easily customize these categories and extensions to suit your needs.
 1. Clone this repository:
    ```bash
    git clone https://github.com/abderrahmane-stack/auto-file-sorter.git
-
+   ```
 2.Navigate to the project directory:
    ```bash
   cd auto-file-sorter
